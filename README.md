@@ -1,4 +1,4 @@
-## Plataforma de e-commerce com reactjs e redux
+## Plataforma de e-commerce com reactjs e redux e redux-saga
 
 ```
 git clone
